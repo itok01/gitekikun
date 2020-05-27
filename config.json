@@ -1,0 +1,10 @@
+{
+    "consumer_key": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+    "consumer_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "access_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "access_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "database_host": "localhost:27017",
+    "database_username": "root",
+    "database_password": "example",
+    "database_name": "giteki"
+}

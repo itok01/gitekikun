@@ -1,0 +1,20 @@
+[package]
+name = "gitekikun"
+version = "0.1.0"
+authors = ["itok01 <contact@itok01.com>"]
+edition = "2018"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/itok01/gitekikun"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+giteki = "0.1"
+tokio = { version = "0.2", features = ["full"] }
+chrono = "0.4"
+mongodb = "0.9"
+bson = "0.14"
+serde = "1"
+serde_json = "1"
+egg-mode = "0.14"
